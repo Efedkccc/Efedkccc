@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning C#<br>🎯 Goals: To be happy...</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Swift</p>
 
 ###
 
